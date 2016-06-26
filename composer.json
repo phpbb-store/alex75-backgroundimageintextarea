@@ -2,7 +2,7 @@
     "name": "alex75/imageintextarea",
     "type": "phpbb-extension",
     "description": "Add a background image in text area (in quick reply and in full editor). The default image, can be replaced in:  .../ext/alex75/imageintextarea/styles/prosilver/theme/message.png",
-    "homepage": "www.phpbb-store.it.it",
+    "homepage": "www.phpbb-store.it",
     "version": "1.0.2",
     "license": "GPL-2.0",
     "authors": [
